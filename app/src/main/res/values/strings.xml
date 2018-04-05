@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Mein Garten</string>
+    <string name="app_name">My Garden</string>
+    <string name="pool_headline">Pool</string>
 </resources>
